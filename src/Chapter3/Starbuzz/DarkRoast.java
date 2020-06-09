@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter3.Starbuzz;
 
 public class DarkRoast extends Beverage {
     public DarkRoast() {

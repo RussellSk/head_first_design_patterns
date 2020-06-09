@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter3.Starbuzz;
 
 public abstract class Beverage {
     String description = "Unknown Beverage";

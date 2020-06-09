@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter3.Starbuzz;
 
 public class Decaf extends Beverage {
     public Decaf() {

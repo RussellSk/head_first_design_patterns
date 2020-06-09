@@ -1,4 +1,4 @@
-package Chapter3;
+package Chapter3.Starbuzz;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {
