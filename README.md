@@ -13,3 +13,6 @@ attach additional responsibilities to an objedt dynamically. Decorators provide 
 **Chapter 4 - Factory pattern** \
 *The Factory Method Pattern* - defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses. <br/>
 *The Abstract Factory Method* - provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+
+**Chapter 6 - Command pattern** 
+encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations.
