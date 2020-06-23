@@ -16,3 +16,6 @@ attach additional responsibilities to an objedt dynamically. Decorators provide 
 
 **Chapter 6 - Command pattern** 
 encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations.
+
+**Chapter 7 - The Adapter Pattern**
+converts the interface of a class into another interface the client expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
